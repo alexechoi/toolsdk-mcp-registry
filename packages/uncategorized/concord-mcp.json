@@ -7,6 +7,6 @@
   "readme": "https://github.com/Get-Concord-AI/concord-mcp#readme",
   "runtime": "node",
   "license": "MIT",
-  "bin": "dist/index.js",
+  "bin": "node_modules/@concord-ai/concord-mcp/dist/index.js",
   "env": {}
 }
